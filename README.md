@@ -3,7 +3,7 @@ A UI developer with interest in web accessibility and responsiveness.
 
 - 🌱 I’m currently learning nodejs, express and mongoDB.
 - 👯 I’m looking to collaborate on open source and building of amazing products.
-- 🤔 I’m open for any front end/ UI engineer role.
+- 🤔 I’m available for any front end/ UI engineer role.
 - 💬 Ask me about ...
 - 📫 How to reach me: solomon.akinlade19@gmail.com
 - 😄 Pronouns: He

@@ -13,5 +13,5 @@ let connect on twitter @harkinladey
 
 ### Things I've built
 
-- https://postbird.com.ng/ - send and recieve packages with ease
-- https://iappworldwide.com/ - a superapp which user can use to order food, ride, hotel and chat.
+- <a href="https://postbird.com.ng/">Post bird</a> - send and recieve packages with ease
+- <a href="https://iappworldwide.com/">iApp</a> - a superapp which user can use to order food, ride, hotel and chat.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-A UI developer with interest in web accessibility and responsiveness.
+A Frontend developer with interest in web accessibility and responsiveness.
 
 - 🌱 I’m currently learning nodejs, express and mongoDB.
 - 👯 I’m looking to collaborate on open source projects and building of amazing products.

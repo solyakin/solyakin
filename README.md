@@ -15,3 +15,5 @@ let connect on twitter @harkinladey
 
 - <a href="https://postbird.com.ng/">Post bird</a> - send and recieve packages with ease
 - <a href="https://iappworldwide.com/">iApp</a> - a superapp which user can use to order food, ride, hotel and chat.
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyakin&show_icons=true&theme=radical)
